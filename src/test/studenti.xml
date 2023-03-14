@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entitati>
+    <student ID="99">
+        <Nume>Ionescu</Nume>
+        <Grupa>931</Grupa>
+    </student>
+</Entitati>
